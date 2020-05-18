@@ -16,9 +16,9 @@ html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-ser
 .clear {clear: both;}
 
 p {
-	font-size: 1em;
+	font-size: 0.8em;
 	line-height: 1.4em;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 	color: #444;
 }
 
@@ -37,13 +37,13 @@ p {
 
 #name h1 {
 	font-size: 2.5em;
-	font-weight: 700;
+	font-weight: 300;
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	margin-bottom: -6px;
 }
 
 #name h2 {
-	font-size: 2em;
+	font-size: 1.5em;
 	margin-left: 2px;
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 }
@@ -114,18 +114,18 @@ section:last-child {
 
 .sectionTitle {
 	float: left;
-	width: 25%;
+	width: 20%;
 }
 
 .sectionContent {
 	float: right;
-	width: 72.5%;
+	width: 75%;
 }
 
 .sectionTitle h1 {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-style: italic;
-	font-size: 1.5em;
+	font-size: 1em;
 	color: #cf8a05;
 }
 
